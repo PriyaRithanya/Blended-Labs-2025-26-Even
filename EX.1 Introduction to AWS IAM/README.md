@@ -69,6 +69,8 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
+```
 **Name:** PRIYARITHANYA M (212225240108)
-**Course:** Introduction to Cloud Computing  
+**Course:** Introduction to Cloud Computing
+```
 
